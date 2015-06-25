@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_marginRight="2dp"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <LinearLayout
+                    android:layout_weight="1"
+
+                    android:layout_width="match_parent"
+                    android:orientation="vertical"
+                    android:layout_height="match_parent">
+                    <LinearLayout
+                        android:id="@+id/lu11"
+                        android:layout_marginBottom="2dp"
+                        android:orientation="vertical"
+                        android:layout_weight="1"
+                        android:background="@color/red"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_marginBottom="2dp"
+                        android:id="@+id/lu12"
+                        android:orientation="vertical"
+                        android:layout_weight="1"
+                        android:background="@color/red"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_marginBottom="2dp"
+                        android:id="@+id/lu13"
+                        android:orientation="vertical"
+                        android:layout_weight="1"
+                        android:background="@color/red"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_marginBottom="2dp"
+                    android:layout_weight="1"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <LinearLayout
+                        android:layout_marginRight="2dp"
+                        android:id="@+id/lu14"
+                        android:orientation="vertical"
+                        android:layout_weight="1"
+                        android:background="@color/green"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                    </LinearLayout>
+                    <LinearLayout
+                        android:id="@+id/lu15"
+                        android:orientation="vertical"
+                        android:layout_weight="1"
+                        android:background="@color/green"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_marginBottom="2dp"
+                    android:id="@+id/lu16"
+                    android:orientation="vertical"
+                    android:layout_weight="1"
+                    android:background="@color/purple"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_weight="1"
+                    android:background="@color/background_material_dark"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_marginLeft="2dp"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <LinearLayout
+                    android:layout_marginBottom="2dp"
+                    android:id="@+id/lu17"
+                    android:orientation="vertical"
+                    android:layout_weight="1"
+                    android:background="@color/orange"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_marginBottom="2dp"
+                    android:id="@+id/lu18"
+                    android:orientation="vertical"
+                    android:layout_weight="1"
+                    android:background="@color/purple"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_marginBottom="2dp"
+                    android:id="@+id/lu19"
+                    android:orientation="vertical"
+                    android:layout_weight="1"
+                    android:background="@color/red"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_marginBottom="2dp"
+                    android:id="@+id/lu20"
+                    android:orientation="vertical"
+                    android:layout_weight="1"
+                    android:background="@color/blue"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                </LinearLayout>
+                <LinearLayout
+                    android:id="@+id/lu21"
+                    android:orientation="vertical"
+                    android:layout_weight="1"
+                    android:background="@color/green"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>
